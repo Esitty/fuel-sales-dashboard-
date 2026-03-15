@@ -9,7 +9,7 @@ An interactive Excel dashboard analyzing fuel sales performance across stations 
 
 Open the PDF for a quick view of the dashboard:
 
-**fuel_sales_dashboard.xlsx**
+**fuel_sales_dashboard.pdf**
 
 Download the interactive Excel file to explore the filters and slicers.
 
