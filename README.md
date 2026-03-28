@@ -12,7 +12,7 @@ An interactive Excel dashboard analyzing both **fuel sales performance** and **l
 
 ### Logistics Dashboard
 
-![Logistics Dashboard](logistics_dashboard.png)
+![Logistics Dashboard](Logistics_dashboard.png)
 
 ---
 
