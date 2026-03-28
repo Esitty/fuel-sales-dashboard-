@@ -1,19 +1,30 @@
-# fuel-sales-dashboard-
-Interactive Excel dashboard analyzing fuel sales performance across regions and retail outlets
+# Fuel Sales & Logistics Performance Dashboard
 
-# Fuel Sales Performance Dashboard
+An interactive Excel dashboard analyzing both **fuel sales performance** and **logistics operations** across regions and fuel stations.
 
-An interactive Excel dashboard analyzing fuel sales performance across stations and regions.
+---
 
 ## 📊 Dashboard Preview
 
-Open the PDF for a quick view of the dashboard:
+### Sales Dashboard
 
-**fuel_sales_dashboard.pdf**
+![Sales Dashboard](sales_dashboard.png)
 
-Download the interactive Excel file to explore the filters and slicers.
+### Logistics Dashboard
 
-## 🧰 Tools Used
+![Logistics Dashboard](logistics_dashboard.png)
+
+---
+
+## 📁 Files Included
+
+* **fuel_sales_logistics_dashboard.xlsx** → Interactive Excel dashboard
+* **fuel_sales_logistics_dashboard.pdf** → Static dashboard preview
+* **fuel_sales_logistics_dataset.csv** → Dataset used for analysis
+
+---
+
+## 🔧 Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -21,28 +32,52 @@ Download the interactive Excel file to explore the filters and slicers.
 * Slicers
 * KPI Cards
 
-## 📈 Dashboard Features
+---
+
+## 📊 Dashboard Features
+
+### Sales Dashboard
 
 * Monthly revenue trend by fuel type
 * Revenue distribution across Petrol, Diesel, and LPG
 * Regional sales comparison
 * Top 5 performing fuel stations
-* Interactive filters for Region, Fuel Type, and Station
+
+### Logistics Dashboard
+
+* Monthly delivery volume trend
+* Delivery volume by region
+* Delivery cost by fuel type
+* Top 5 stations by delivery volume
+* Delivery efficiency analysis
+
+---
 
 ## 🔍 Key Insights
 
-* Petrol contributes the largest share of revenue (51%).
-* Central region generates the highest overall fuel sales.
-* Station 1 and Station 11 are the top-performing stations.
-* Diesel demand is relatively stable across months.
+* Petrol contributes the largest share of both **revenue and logistics cost**
+* Central and Eastern regions consistently show strong performance
+* Top stations contribute significantly to overall fuel distribution
+* Delivery efficiency (~4.3%) indicates relatively low logistics cost compared to revenue
+* Monthly trends suggest seasonal demand fluctuations
 
-## 📂 Files in this Repository
+---
 
-* fuel_sales_dashboard.xlsx – interactive Excel dashboard
-* fuel_sales_dashboard.pdf – quick preview of the dashboard
-* fuel_sales_dataset.csv – dataset used for analysis
+## 📌 How to Use
 
-## 👤 Author
+1. Download the Excel file
+2. Use slicers to filter by Region, Fuel Type, and Station
+3. Explore both dashboards for insights
 
-Henrietta Mensah
+---
+
+## 🚀 Project Overview
+
+This project demonstrates the ability to:
+
+* Transform raw data into interactive dashboards
+* Perform both **sales and operational analysis**
+* Present business insights clearly using data visualization
+
+
 
